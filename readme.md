@@ -13,6 +13,7 @@ Faire une VHOST. Ce VHOST devra rediriger vers le dossier **web** du projet.
 Créer un bundle qui aura pour :
 - namespace : E2N
 - nom : Candidate
+- format de configuration : YML
 
 ## Exercice 5
 Installer la dernière version de Doctrine
